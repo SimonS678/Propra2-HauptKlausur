@@ -1,7 +1,7 @@
 package com.klausur1.demo.domain.auftrag;
 
 import com.klausur1.demo.domain.partner.Partner;
-import com.klausur1.demo.domain.partner.PartnerRef;
+import com.klausur1.demo.database.PartnerRef;
 import com.klausur1.demo.domain.tisch.TischRef;
 
 public class Auftrag {
