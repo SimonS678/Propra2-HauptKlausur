@@ -9,7 +9,9 @@ public class Auftrag {
     PartnerRef partner;
     TischRef tisch;
 
-    public void getPostleitzahl() {}
+    public int getPostleitzahl() {
+        return 50677;
+    }
     public void vermitteltAn(Partner partner) {}
     public Kunde getKunde() {
         return new Kunde();
